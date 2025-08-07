@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Temp files
+tempCodeRunnerFile.py
+
+# Env folders and variables
+.env
+*.env
+RAG_env/
+
+# Vector DB / Chroma
+chroma_db/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
